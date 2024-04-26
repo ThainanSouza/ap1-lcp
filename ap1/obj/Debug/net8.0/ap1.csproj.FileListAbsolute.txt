@@ -1,0 +1,14 @@
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\bin\Debug\net8.0\ap1.exe
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\bin\Debug\net8.0\ap1.deps.json
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\bin\Debug\net8.0\ap1.runtimeconfig.json
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\bin\Debug\net8.0\ap1.dll
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\bin\Debug\net8.0\ap1.pdb
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ap1.AssemblyInfoInputs.cache
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ap1.AssemblyInfo.cs
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ap1.csproj.CoreCompileInputs.cache
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ap1.dll
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\refint\ap1.dll
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ap1.pdb
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ap1.genruntimeconfig.cache
+C:\Users\thain\Desktop\FACULDADE ADS\4º SEMESTRE\LABORATÓRIO DE PROGRAMAÇÃO\ap1\obj\Debug\net8.0\ref\ap1.dll
